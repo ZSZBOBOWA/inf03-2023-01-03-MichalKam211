@@ -1,0 +1,54 @@
+* {
+    font-family: Georgia;
+}
+
+#baner {
+    background-color: #C75B39;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#Lewy {
+    background-color:  #FF8A65;
+    width: 25%;
+    height: 500px;
+    padding-top: 50px;
+    float: left;
+}
+
+#Prawy {
+    background-color: snow;
+    width: 75%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+    float: right;
+}
+#stopka {
+    background-color: #C75B39;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+img {
+    box-shadow: 15px, 15px, 10px, dimgray;
+    width: 25%;
+    margin: 10px;
+}
+
+li {
+    margin: 5px;
+}
+ol {
+    color: snow;
+}
+ul {
+    color: snow;
+}
+h3 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
